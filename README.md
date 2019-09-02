@@ -4,7 +4,7 @@
 
 ## About Us
 
-| Name   | Role  | Github   |
-|--------|-------|----------|
-| Fatalai Jon | Team Lead, breakfast menu | fatalaijon |
-| Jim Brucker | lunch menu | jbrucker |
+| Name          | Role           | Github    |
+| ------------- | -------------- | --------- |
+| Siwat Ponpued | breakfast menu | KornSiwat |
+| Patteera      | breakfast menu | Mmookptr  |
