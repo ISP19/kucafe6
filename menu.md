@@ -1,9 +1,12 @@
-## Menu
+## Breakfast Menu
 
 | Item                                   | Price |
 |:---------------------------------------|------:|
-| nothing yet                            |  0.0  |
-
+| Egg and beacon sandwish                |  30 Baht|
+| Ham and cheese sandwish                |  30 Baht|
+| Fried egg, beacon and sausage          |  45 Baht |
+| Cereal with milk                       |  30 Baht |
+| Salad with crispy beacon               |  30 Baht |
 
 ---
 
