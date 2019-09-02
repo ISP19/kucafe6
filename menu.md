@@ -1,8 +1,14 @@
-## Menu
+## Night Cafe Menu
 
 | Item                                   | Price |
 |:---------------------------------------|------:|
-| nothing yet                            |  0.0  |
+| Curry                           |  300  |
+| Porkchop steak    | 200 |
+| Spagetthi Meatball | 200 |
+| Pizza  | 300 |
+| lasagna | 100 |
+| Ceasar Salad | 180 |
+
  
 
 ---
