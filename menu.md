@@ -33,7 +33,7 @@
 | Porkchop Steak                         |  70 Baht  |
 | Miso Ramen                             |  60 Baht  |
 
-## Beverage Menu
+## Lunch Beverage Menu
 
 | Item                                   | Price |
 |:---------------------------------------|------:|
