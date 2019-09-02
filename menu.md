@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Breakfast Menu
 
 | Item                          |   Price |
@@ -21,7 +20,7 @@
 | Hot/Iced Cocoa     | 20 Baht |
 | Hot/Iced Late      | 20 Baht |
 | Hot/Iced Tea       | 20 Baht |
-=======
+
 ## Lunch Menu
 
 | Item                                   | Price |
@@ -43,7 +42,6 @@
 | Iced Caramel Macchiato                 |  50 Baht  |
 | Iced Chocolate                         |  65 Baht  |
 | Hot Chocolate                          |  60 Baht  |
->>>>>>> master
 
 ---
 
